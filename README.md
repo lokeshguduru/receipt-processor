@@ -24,7 +24,7 @@ This is a Go-based webservice implementing the Receipt Processor API as specifie
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/lokeshguduru/receipt-processor.git
    cd receipt-processor
    ```
 
